@@ -1,0 +1,2 @@
+sort = "descending"
+datafile = "examples/nba-2016-17-season-win-percents.csv"
